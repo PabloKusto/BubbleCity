@@ -1,0 +1,15 @@
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\bin\Debug\net8.0\ConsoleApp(Practical1.4).exe
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\bin\Debug\net8.0\ConsoleApp(Practical1.4).deps.json
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\bin\Debug\net8.0\ConsoleApp(Practical1.4).runtimeconfig.json
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\bin\Debug\net8.0\ConsoleApp(Practical1.4).dll
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\bin\Debug\net8.0\ConsoleApp(Practical1.4).pdb
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).GeneratedMSBuildEditorConfig.editorconfig
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).AssemblyInfoInputs.cache
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).AssemblyInfo.cs
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).csproj.CoreCompileInputs.cache
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).sourcelink.json
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).dll
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\refint\ConsoleApp(Practical1.4).dll
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).pdb
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ConsoleApp(Practical1.4).genruntimeconfig.cache
+C:\rEPOS\Finished-Works\ConsoleApp(Practical1.4)\obj\Debug\net8.0\ref\ConsoleApp(Practical1.4).dll
