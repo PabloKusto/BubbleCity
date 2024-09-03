@@ -1,0 +1,15 @@
+C:\rEPOS\Finished-Works\Practical2.7\bin\Debug\net8.0\Practical2.7.exe
+C:\rEPOS\Finished-Works\Practical2.7\bin\Debug\net8.0\Practical2.7.deps.json
+C:\rEPOS\Finished-Works\Practical2.7\bin\Debug\net8.0\Practical2.7.runtimeconfig.json
+C:\rEPOS\Finished-Works\Practical2.7\bin\Debug\net8.0\Practical2.7.dll
+C:\rEPOS\Finished-Works\Practical2.7\bin\Debug\net8.0\Practical2.7.pdb
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.AssemblyInfoInputs.cache
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.AssemblyInfo.cs
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.csproj.CoreCompileInputs.cache
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.sourcelink.json
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.dll
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\refint\Practical2.7.dll
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.pdb
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\Practical2.7.genruntimeconfig.cache
+C:\rEPOS\Finished-Works\Practical2.7\obj\Debug\net8.0\ref\Practical2.7.dll
