@@ -1,0 +1,15 @@
+C:\rEPOS\Finished-Works\Practical3.10\Task3\bin\Debug\net8.0\Task3.exe
+C:\rEPOS\Finished-Works\Practical3.10\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\rEPOS\Finished-Works\Practical3.10\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\rEPOS\Finished-Works\Practical3.10\Task3\bin\Debug\net8.0\Task3.dll
+C:\rEPOS\Finished-Works\Practical3.10\Task3\bin\Debug\net8.0\Task3.pdb
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.dll
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.pdb
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\rEPOS\Finished-Works\Practical3.10\Task3\obj\Debug\net8.0\ref\Task3.dll
